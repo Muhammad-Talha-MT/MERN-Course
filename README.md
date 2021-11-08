@@ -224,7 +224,7 @@ e.g
 
 month=9
 
-switch(month){
+```switch(month){
 
 `	`case 9:
 
@@ -242,7 +242,7 @@ switch(month){
 
 `		`console.log(“please enter a valid  month value”);
 
-}
+} ```
 ## Challenge
 Make a function get student’s marks as an argument and print his grade. If marks greater or equal than 90, print A+. If marks greater or equal to 80 and less than 90, print A. If marks greater or equal to 70 and less than 80, print B. If marks greater or equal to 60 and less than 70, print C. If marks greater or equal to 60 and less than 70, print D. If marks greater or equal to 50 and less than 60, print E. Otherwise print F.
 # Arrays in JavaScript
